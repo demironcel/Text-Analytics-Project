@@ -1,1 +1,1 @@
-# Text-Analytics-Project
+This is the analysis and review of Amazon application reviews on Android, conducted as a final assignment of Advanced Data Modelling course. The project consists of business report and source code that is used in analyses.
